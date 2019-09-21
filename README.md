@@ -44,7 +44,10 @@ be found in `spec/features`. Both tests should be passing to complete the lab.
 ## Resources
 
 - If you run into an ActiveRecord::PendingMigration error when you run the
-  tests, try `rake db:migrate RAILS_ENV=test` in the terminal then run the tests
+  tests, try `
+  
+  
+  ` in the terminal then run the tests
   again
 
 [Rails Routing from the Outside In](http://edgeguides.rubyonrails.org/routing.html)
